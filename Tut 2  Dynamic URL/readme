@@ -1,0 +1,5 @@
+Step 1. lanuch app.py
+Step 2. open Url http://127.0.0.1:5000/hello/<name>
+        eg. http://127.0.0.1:5000/hello/ABCDE
+
+The result will be Hello <name>
